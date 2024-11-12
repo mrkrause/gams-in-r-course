@@ -200,7 +200,7 @@ Correct! `x2` does not have enough basis functions because it has a significant 
 
 </opt>
 
-<opt text="`x3`">
+<opt text="x3">
 
 Incorrect. A smooth without enough basis functions would have significant results in `gam.check()`
 
