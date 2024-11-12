@@ -301,25 +301,25 @@ Now, let's look at concurvity _between_ model variables.
 Multiple Choice: Which two variables have the greatest worst-case concurvity?
 
 <choice>
-<opt text="`height` and `length`">
+<opt text="height and length">
 
 `height` and `length` have worst-case concurvity of about 0.606.  Which pair of variables has greater concurvity?
 
 </opt>
 
-<opt text="`height` and `weight`" >
+<opt text="height and weight" >
 
 `height` and `weight` have worst-case concurvity of about 0.367.  Which pair of variables has greater concurvity?
 
 </opt>
 
-<opt text="`length` and `width`">
+<opt text="length and width">
 
 Close! `length` and `width` have a high worst-case concurvity: about 0.834  Which pair of variables has even greater concurvity?
 
 </opt>
 
-<opt text="`weight` and `width`"  correct="true">
+<opt text="weight and width"  correct="true">
 
 Correct! `weight` and `width` have worst-case concurvity of about 0.895.
 
