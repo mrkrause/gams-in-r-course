@@ -80,7 +80,7 @@ model2 <- gam(hw.mpg ~ s(weight) + s(length), data = mpg,
 Notes: 
 We see from these plots that length has increasing nonlinear effect on fuel economy, and this effect is weaker than the weight effect. 
 
-Note that, in this model, both the effect of weight and price are non-linear terms, but the two are simply added together to get a final prediction.  That addition is where the additive in generalized additive models comes from.
+Note that, in this model, both the effect of weight and length are non-linear terms, but the two are simply added together to get a final prediction.  That addition is where the additive in generalized additive models comes from.
 
 ---
 
